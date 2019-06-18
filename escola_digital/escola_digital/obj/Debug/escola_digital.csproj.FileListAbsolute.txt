@@ -1,0 +1,135 @@
+C:\Users\João Fernandes\Desktop\Projeto_Da_Escola_Digtal\escola_digital\escola_digital\bin\Debug\escola_digital.exe.config
+C:\Users\João Fernandes\Desktop\Projeto_Da_Escola_Digtal\escola_digital\escola_digital\bin\Debug\escola_digital.exe
+C:\Users\João Fernandes\Desktop\Projeto_Da_Escola_Digtal\escola_digital\escola_digital\bin\Debug\escola_digital.pdb
+C:\Users\João Fernandes\Desktop\Projeto_Da_Escola_Digtal\escola_digital\escola_digital\obj\Debug\escola_digital.csprojAssemblyReference.cache
+C:\Users\João Fernandes\Desktop\Projeto_Da_Escola_Digtal\escola_digital\escola_digital\obj\Debug\escola_digital.home_page.resources
+C:\Users\João Fernandes\Desktop\Projeto_Da_Escola_Digtal\escola_digital\escola_digital\obj\Debug\escola_digital.Properties.Resources.resources
+C:\Users\João Fernandes\Desktop\Projeto_Da_Escola_Digtal\escola_digital\escola_digital\obj\Debug\escola_digital.csproj.GenerateResource.cache
+C:\Users\João Fernandes\Desktop\Projeto_Da_Escola_Digtal\escola_digital\escola_digital\obj\Debug\escola_digital.csproj.CoreCompileInputs.cache
+C:\Users\João Fernandes\Desktop\Projeto_Da_Escola_Digtal\escola_digital\escola_digital\obj\Debug\escola_digital.exe
+C:\Users\João Fernandes\Desktop\Projeto_Da_Escola_Digtal\escola_digital\escola_digital\obj\Debug\escola_digital.pdb
+C:\Users\João Fernandes\Desktop\Projeto_Da_Escola_Digtal\escola_digital\escola_digital\obj\Debug\escola_digital.login.resources
+C:\Users\João Fernandes\Desktop\Projeto_Da_Escola_Digtal\escola_digital\escola_digital\obj\Debug\escola_digital.escolher_registo.resources
+C:\Users\João Fernandes\Desktop\Projeto_Da_Escola_Digtal\escola_digital\escola_digital\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\João Fernandes\Desktop\Projeto_Da_Escola_Digtal\escola_digital\escola_digital\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\João Fernandes\Desktop\Projeto_Da_Escola_Digtal\escola_digital\escola_digital\obj\Debug\escola_digital.csproj.CopyComplete
+C:\Users\João Fernandes\Desktop\Projeto_Da_Escola_Digtal\escola_digital\escola_digital\obj\Debug\escola_digital.test.resources
+C:\Trabalhos\escola_digital_2\escola_digital\escola_digital\escola_digital\bin\Debug\escola_digital.exe.config
+C:\Trabalhos\escola_digital_2\escola_digital\escola_digital\escola_digital\bin\Debug\escola_digital.exe
+C:\Trabalhos\escola_digital_2\escola_digital\escola_digital\escola_digital\bin\Debug\escola_digital.pdb
+C:\Trabalhos\escola_digital_2\escola_digital\escola_digital\escola_digital\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Trabalhos\escola_digital_2\escola_digital\escola_digital\escola_digital\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Trabalhos\escola_digital_2\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.csprojAssemblyReference.cache
+C:\Trabalhos\escola_digital_2\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.home_page.resources
+C:\Trabalhos\escola_digital_2\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.login.resources
+C:\Trabalhos\escola_digital_2\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.Properties.Resources.resources
+C:\Trabalhos\escola_digital_2\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.escolher_registo.resources
+C:\Trabalhos\escola_digital_2\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.test.resources
+C:\Trabalhos\escola_digital_2\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.csproj.GenerateResource.cache
+C:\Trabalhos\escola_digital_2\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.csproj.CoreCompileInputs.cache
+C:\Trabalhos\escola_digital_2\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.csproj.CopyComplete
+C:\Trabalhos\escola_digital_2\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.exe
+C:\Trabalhos\escola_digital_2\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.pdb
+C:\Trabalhos\escola_digital_2\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.menu_vertical_2.resources
+C:\Trabalhos\escola_digital_2\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.resgisto_aluno.resources
+E:\escola_digital\escola_digital\escola_digital\bin\Debug\escola_digital.exe.config
+E:\escola_digital\escola_digital\escola_digital\bin\Debug\escola_digital.exe
+E:\escola_digital\escola_digital\escola_digital\bin\Debug\escola_digital.pdb
+E:\escola_digital\escola_digital\escola_digital\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\escola_digital\escola_digital\escola_digital\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.csprojAssemblyReference.cache
+E:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.home_page.resources
+E:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.login.resources
+E:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.menu_vertical_2.resources
+E:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.Properties.Resources.resources
+E:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.escolher_registo.resources
+E:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.resgisto_aluno.resources
+E:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.user_control_escolher_registo.resources
+E:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.csproj.GenerateResource.cache
+E:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.csproj.CoreCompileInputs.cache
+E:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.csproj.CopyComplete
+E:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.exe
+E:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.pdb
+E:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.user_control_escolher_resgisto_aluno.resources
+E:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.user_control_login.resources
+E:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.user_control_escolher_resgisto_funcioário.resources
+F:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.csprojAssemblyReference.cache
+F:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.home_page.resources
+F:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.login.resources
+F:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.menu_vertical_2.resources
+F:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.Properties.Resources.resources
+F:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.escolher_registo.resources
+F:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.resgisto_aluno.resources
+F:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.user_control_escolher_registo.resources
+F:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.user_control_escolher_resgisto_aluno.resources
+F:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.user_control_escolher_resgisto_funcioário.resources
+F:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.user_control_login.resources
+F:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.csproj.GenerateResource.cache
+F:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.csproj.CoreCompileInputs.cache
+F:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.exe
+F:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.pdb
+F:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.user_control_painel_vertical.resources
+E:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.user_control_painel_vertical.resources
+E:\escola_digital\escola_digital\escola_digital\obj\Debug\Interop.AcroPDFLib.dll
+E:\escola_digital\escola_digital\escola_digital\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.csproj.ResolveComReference.cache
+E:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.user_control_horario.resources
+F:\escola_digital\escola_digital\escola_digital\obj\Debug\Interop.AcroPDFLib.dll
+F:\escola_digital\escola_digital\escola_digital\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.csproj.ResolveComReference.cache
+F:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.user_control_horario.resources
+F:\escola_digital\escola_digital\escola_digital\bin\Debug\escola_digital.exe.config
+F:\escola_digital\escola_digital\escola_digital\bin\Debug\escola_digital.exe
+F:\escola_digital\escola_digital\escola_digital\bin\Debug\escola_digital.pdb
+F:\escola_digital\escola_digital\escola_digital\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+F:\escola_digital\escola_digital\escola_digital\bin\Debug\Interop.AcroPDFLib.dll
+F:\escola_digital\escola_digital\escola_digital\bin\Debug\AxInterop.AcroPDFLib.dll
+F:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.csproj.CopyComplete
+F:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.user_control_matricula_aluno.resources
+F:\escola_digital\escola_digital\escola_digital\bin\Debug\BouncyCastle.Crypto.dll
+F:\escola_digital\escola_digital\escola_digital\bin\Debug\Google.Protobuf.dll
+F:\escola_digital\escola_digital\escola_digital\bin\Debug\MySql.Data.dll
+F:\escola_digital\escola_digital\escola_digital\bin\Debug\Google.Protobuf.xml
+F:\escola_digital\escola_digital\escola_digital\bin\Debug\MySql.Data.xml
+E:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.user_control_matricula_aluno.resources
+E:\escola_digital\escola_digital\escola_digital\bin\Debug\BouncyCastle.Crypto.dll
+E:\escola_digital\escola_digital\escola_digital\bin\Debug\Google.Protobuf.dll
+E:\escola_digital\escola_digital\escola_digital\bin\Debug\MySql.Data.dll
+E:\escola_digital\escola_digital\escola_digital\bin\Debug\Google.Protobuf.xml
+E:\escola_digital\escola_digital\escola_digital\bin\Debug\MySql.Data.xml
+E:\escola_digital\escola_digital\escola_digital\bin\Debug\Interop.AcroPDFLib.dll
+E:\escola_digital\escola_digital\escola_digital\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.user_control_note_taking.resources
+F:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.user_control_note_taking.resources
+E:\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.user_control_bem_vindo.resources
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\bin\Debug\escola_digital.exe.config
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\bin\Debug\escola_digital.exe
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\bin\Debug\escola_digital.pdb
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\bin\Debug\Google.Protobuf.dll
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\bin\Debug\MySql.Data.dll
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\bin\Debug\Google.Protobuf.xml
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\bin\Debug\MySql.Data.xml
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.csprojAssemblyReference.cache
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.csproj.ResolveComReference.cache
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.home_page.resources
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.Properties.Resources.resources
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.user_control_bem_vindo.resources
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.user_control_escolher_registo.resources
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.user_control_escolher_resgisto_aluno.resources
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.user_control_escolher_resgisto_funcioário.resources
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.user_control_login.resources
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.user_control_matricula_aluno.resources
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.csproj.GenerateResource.cache
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.csproj.CoreCompileInputs.cache
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.csproj.CopyComplete
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.exe
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.pdb
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.user_control_verificacao_matricula.resources
+C:\Users\João Fernandes\Desktop\escola_digital\escola_digital\escola_digital\obj\Debug\escola_digital.user_control_email.resources
